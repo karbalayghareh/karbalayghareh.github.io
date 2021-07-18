@@ -1,0 +1,50 @@
+---
+bio: My research interests include distributed robotics, mobile computing and programmable
+  matter.
+education:
+  courses:
+  - course: PhD in Electrical Engineering
+    institution: Texas A&M University
+    year: 2019
+  - course: MSc in Electrical Engineering
+    institution: Sharif University of Technology
+    year: 2014
+  - course: BSc in Electrical Engineering
+    institution: Iran University of Science and Technology
+    year: 2011
+email: ""
+highlight_name: false
+interests:
+- Machine Learning
+- Computational Biology
+- Computational Genomics
+organizations:
+- name: Memorial Sloan Kettering Cancer Center
+  url: https://www.mskcc.org/research/ski
+role: Postdoctoral Research Scholar
+social:
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- display:
+    header: true
+  icon: twitter
+  icon_pack: fab
+  label: Follow me on Twitter
+  link: https://twitter.com/karbalayghareh
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=TaG4bDje-eoC&hl=en
+- icon: github
+  icon_pack: fab
+  link: https://github.com/karbalayghareh
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/alireza-karbalayghareh-81513879/
+superuser: true
+title: Alireza Karbalayghareh
+---
+
+Alireza Karbalayghareh is a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.
