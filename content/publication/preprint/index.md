@@ -1,48 +1,17 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Linking distal enhancers to genes and modeling their impact on target gene expression are longstanding unresolved problems in regulatory genomics and critical for interpreting non-coding genetic variation. Here we present a new deep learning approach called GraphReg that exploits 3D interactions from chromosome conformation capture assays in order to predict gene expression from 1D epigenomic data or genomic DNA sequence. By using graph attention networks to exploit the connectivity of distal elements and promoters, GraphReg more faithfully models gene regulation and more accurately predicts gene expression levels than dilated convolutional neural networks (CNNs), the current state-of-the-art deep learning approach for this task. Feature attribution used with GraphReg accurately identifies functional enhancers of genes, as validated by CRISPRi-FlowFISH and TAP-seq assays, outperforming both CNNs and the recently proposed Activity-by-Contact model. GraphReg therefore represents an important advance in modeling the regulatory impact of epigenomic and sequence elements.
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
-doi: ""
+- Merve Sahin
+- Christina S. Leslie
+date: "2021-04-02T00:00:00Z"
+doi: "https://doi.org/10.1101/2021.03.31.437978"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
-projects:
-- internal-project
 publication: ""
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example preprint / working paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
+publishDate: "2021-04-02T00:00:00Z"
+title: Chromatin interaction aware gene regulatory modeling with graph attention networks
+url_pdf: https://www.biorxiv.org/content/10.1101/2021.03.31.437978v1.full.pdf
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

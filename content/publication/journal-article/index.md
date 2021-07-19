@@ -1,52 +1,18 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
-author_notes:
-- Equal contribution
-- Equal contribution
+abstract: Transfer learning has recently attracted significant research attention, as it simultaneously learns from different source domains, which have plenty of labeled data, and transfers the relevant knowledge to the target domain with limited labeled data to improve the prediction performance. We propose a Bayesian transfer learning framework, in the homogeneous transfer learning scenario, where the source and target domains are related through the joint prior density of the model parameters. The modeling of joint prior densities enables better understanding of the “transferability” between domains. We define a joint Wishart distribution for the precision matrices of the Gaussian feature-label distributions in the source and target domains to act like a bridge that transfers the useful information of the source domain to help classification in the target domain by improving the target posteriors. Using several theorems in multivariate statistics, the posteriors and posterior predictive densities are derived in closed forms with hypergeometric functions of matrix argument, leading to our novel closed-form and fast Optimal Bayesian Transfer Learning (OBTL) classifier. Experimental results on both synthetic and real-world benchmark data confirm the superb performance of the OBTL compared to the other state-of-the-art transfer learning and domain adaptation methods.
 authors:
 - admin
-- Robert Ford
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Xiaoning Qian
+- Edward R. Dougherty
+date: "2018-07-15T00:00:00Z"
+doi: "10.1109/TSP.2018.2839583"
 featured: false
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
-  preview_only: false
-projects: []
-publication: '*Journal of Source Themes, 1*(1)'
+publication: 'IEEE Transactions on Signal Processing'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
-title: An example journal article
-url_code: ""
-url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_poster: ""
-url_project: ""
-url_slides: ""
-url_source: ""
-url_video: ""
+publishDate: "2018-07-15T00:00:00Z"
+title: Optimal Bayesian transfer learning
+url_pdf: https://arxiv.org/pdf/1801.00857.pdf
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).

@@ -21,6 +21,7 @@ twitter: ''
 # Contact (edit or remove options as required)
 
 email: karbalaa@mskcc.org
+phone: ""
 address:
   street: 417 E 68th St
   city: New York
@@ -32,10 +33,12 @@ coordinates:
   latitude: '40.765121120483464'
   longitude: '-73.9560049158015'
 directions: Mortimer B. Zuckerman Research Center, Floor 11, Room 1145
+office_hours: ""
+appointment_url: ""
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: karbalayghareh
+    name: Cantact me on Twitter!
     link: 'https://twitter.com/karbalayghareh'
 
 # Site header
@@ -45,7 +48,7 @@ main_menu:
   align: l
   show_logo: true
   show_language: false
-  show_day_night: true
+  show_day_night: false
   show_search: true
   highlight_active_link: true
 
@@ -130,7 +133,7 @@ map:
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'G-M0LWSD3RK1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''

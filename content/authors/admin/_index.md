@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include machine learning, computational biology, and computational genomics.
 education:
   courses:
   - course: PhD in Electrical Engineering
@@ -20,7 +19,7 @@ interests:
 - Computational Genomics
 organizations:
 - name: Memorial Sloan Kettering Cancer Center
-  url: https://www.mskcc.org/research/ski
+  url: https://www.mskcc.org/research/ski/programs/computational-biology
 role: Postdoctoral Research Scholar
 social:
 - icon: envelope
@@ -45,6 +44,6 @@ superuser: true
 title: Alireza Karbalayghareh
 ---
 
-Alireza Karbalayghareh is a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
+I am a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.

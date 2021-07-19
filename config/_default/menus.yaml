@@ -7,14 +7,14 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Projects
+  - name: Research
     url: '#projects'
     weight: 30
   - name: Publications
     url: '#publications'
     weight: 50
   - name: Courses
-    url: '#courses'
+    url: /courses
     weight: 60
   - name: Contact
     url: '#contact'
