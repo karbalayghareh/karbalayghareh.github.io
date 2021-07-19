@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ulisses Braga-Neto | Alireza Karbalayghareh</title>
+    <link>https://academic-demo.netlify.app/author/ulisses-braga-neto/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/ulisses-braga-neto/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ulisses Braga-Neto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Ulisses Braga-Neto</title>
+      <link>https://academic-demo.netlify.app/author/ulisses-braga-neto/</link>
+    </image>
+    
+    <item>
+      <title>Classification of Gaussian trajectories with missing data in Boolean gene regulatory networks</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

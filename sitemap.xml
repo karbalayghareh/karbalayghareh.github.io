@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://academic-demo.netlify.app/courses/example/python/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/courses/example/visualization/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/courses/example/stats/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://academic-demo.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
@@ -20,19 +11,43 @@
     <loc>https://academic-demo.netlify.app/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/courses/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/courses/example/</loc>
-    <lastmod>2021-01-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <loc>https://academic-demo.netlify.app/publication-type/3/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/author/alireza-karbalayghareh/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/authors/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/author/christina-s.-leslie/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/publication/preprint/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/tag/graphreg/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/project/internal-project-1/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/author/merve-sahin/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/project/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/publication_types/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/publication/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/tags/</loc>
+    <lastmod>2021-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/tag/academic/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/categories/</loc>
@@ -42,9 +57,6 @@
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/tags/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/post/getting-started/</loc>
@@ -77,21 +89,6 @@
     <loc>https://academic-demo.netlify.app/post/writing-technical-content/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://academic-demo.netlify.app/post/jupyter/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,36 +98,35 @@
     <loc>https://academic-demo.netlify.app/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://academic-demo.netlify.app/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://academic-demo.netlify.app/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/author/edward-r.-dougherty/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/tag/obtl/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/project/internal-project-2/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://academic-demo.netlify.app/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://academic-demo.netlify.app/author/xiaoning-qian/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/author/ulisses-braga-neto/</loc>
+    <lastmod>2017-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://academic-demo.netlify.app/admin/</loc>
+  </url><url>
+    <loc>https://academic-demo.netlify.app/courses/</loc>
   </url>
 </urlset>

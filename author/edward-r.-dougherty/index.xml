@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edward R. Dougherty | Alireza Karbalayghareh</title>
+    <link>https://academic-demo.netlify.app/author/edward-r.-dougherty/</link>
+      <atom:link href="https://academic-demo.netlify.app/author/edward-r.-dougherty/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edward R. Dougherty</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 15 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Edward R. Dougherty</title>
+      <link>https://academic-demo.netlify.app/author/edward-r.-dougherty/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Bayesian transfer learning</title>
+      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classification of Gaussian trajectories with missing data in Boolean gene regulatory networks</title>
+      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
