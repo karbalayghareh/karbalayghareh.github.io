@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alireza Karbalayghareh</title>
-    <link>https://academic-demo.netlify.app/project/</link>
-      <atom:link href="https://academic-demo.netlify.app/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karbalayghareh.github.io/project/</link>
+      <atom:link href="https://karbalayghareh.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://karbalayghareh.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://academic-demo.netlify.app/project/</link>
+      <link>https://karbalayghareh.github.io/project/</link>
     </image>
     
     <item>
       <title>GraphReg</title>
-      <link>https://academic-demo.netlify.app/project/internal-project-1/</link>
+      <link>https://karbalayghareh.github.io/project/internal-project-1/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project-1/</guid>
+      <guid>https://karbalayghareh.github.io/project/internal-project-1/</guid>
       <description>&lt;p&gt;Linking distal enhancers to genes and modeling their impact on target gene expression are longstanding unresolved problems in regulatory genomics and critical for interpreting non-coding genetic variation. Here we present a new deep learning approach called GraphReg that exploits 3D interactions from chromosome conformation capture assays in order to predict gene expression from 1D epigenomic data or genomic DNA sequence. By using graph attention networks to exploit the connectivity of distal elements and promoters, GraphReg more faithfully models gene regulation and more accurately predicts gene expression levels than dilated convolutional neural networks (CNNs), the current state-of-the-art deep learning approach for this task. Feature attribution used with GraphReg accurately identifies functional enhancers of genes, as validated by CRISPRi-FlowFISH and TAP-seq assays, outperforming both CNNs and the recently proposed Activity-by-Contact model. GraphReg therefore represents an important advance in modeling the regulatory impact of epigenomic and sequence elements.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>OBTL</title>
-      <link>https://academic-demo.netlify.app/project/internal-project-2/</link>
+      <link>https://karbalayghareh.github.io/project/internal-project-2/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project-2/</guid>
+      <guid>https://karbalayghareh.github.io/project/internal-project-2/</guid>
       <description>&lt;p&gt;Transfer learning has recently attracted significant research attention, as it simultaneously learns from different source domains, which have plenty of labeled data, and transfers the relevant knowledge to the target domain with limited labeled data to improve the prediction performance. We propose a Bayesian transfer learning framework, in the homogeneous transfer learning scenario, where the source and target domains are related through the joint prior density of the model parameters. The modeling of joint prior densities enables better understanding of the “transferability” between domains. We define a joint Wishart distribution for the precision matrices of the Gaussian feature-label distributions in the source and target domains to act like a bridge that transfers the useful information of the source domain to help classification in the target domain by improving the target posteriors. Using several theorems in multivariate statistics, the posteriors and posterior predictive densities are derived in closed forms with hypergeometric functions of matrix argument, leading to our novel closed-form and fast Optimal Bayesian Transfer Learning (OBTL) classifier. Experimental results on both synthetic and real-world benchmark data confirm the superb performance of the OBTL compared to the other state-of-the-art transfer learning and domain adaptation methods.&lt;/p&gt;
 </description>
     </item>

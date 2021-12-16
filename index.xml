@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alireza Karbalayghareh</title>
-    <link>https://academic-demo.netlify.app/</link>
-      <atom:link href="https://academic-demo.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://karbalayghareh.github.io/</link>
+      <atom:link href="https://karbalayghareh.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Alireza Karbalayghareh</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://academic-demo.netlify.app/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://karbalayghareh.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Alireza Karbalayghareh</title>
-      <link>https://academic-demo.netlify.app/</link>
+      <link>https://karbalayghareh.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://academic-demo.netlify.app/talk/example-talk/</link>
+      <link>https://karbalayghareh.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/talk/example-talk/</guid>
+      <guid>https://karbalayghareh.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -34,26 +34,26 @@
     
     <item>
       <title>Chromatin interaction aware gene regulatory modeling with graph attention networks</title>
-      <link>https://academic-demo.netlify.app/publication/preprint/</link>
+      <link>https://karbalayghareh.github.io/publication/preprint/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/preprint/</guid>
+      <guid>https://karbalayghareh.github.io/publication/preprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GraphReg</title>
-      <link>https://academic-demo.netlify.app/project/internal-project-1/</link>
+      <link>https://karbalayghareh.github.io/project/internal-project-1/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project-1/</guid>
+      <guid>https://karbalayghareh.github.io/project/internal-project-1/</guid>
       <description>&lt;p&gt;Linking distal enhancers to genes and modeling their impact on target gene expression are longstanding unresolved problems in regulatory genomics and critical for interpreting non-coding genetic variation. Here we present a new deep learning approach called GraphReg that exploits 3D interactions from chromosome conformation capture assays in order to predict gene expression from 1D epigenomic data or genomic DNA sequence. By using graph attention networks to exploit the connectivity of distal elements and promoters, GraphReg more faithfully models gene regulation and more accurately predicts gene expression levels than dilated convolutional neural networks (CNNs), the current state-of-the-art deep learning approach for this task. Feature attribution used with GraphReg accurately identifies functional enhancers of genes, as validated by CRISPRi-FlowFISH and TAP-seq assays, outperforming both CNNs and the recently proposed Activity-by-Contact model. GraphReg therefore represents an important advance in modeling the regulatory impact of epigenomic and sequence elements.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://academic-demo.netlify.app/post/getting-started/</link>
+      <link>https://karbalayghareh.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/getting-started/</guid>
+      <guid>https://karbalayghareh.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -128,11 +128,11 @@
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</link>
+      <link>https://karbalayghareh.github.io/post/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      <guid>https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://karbalayghareh.github.io/post/2020-12-01-r-rmarkdown/</guid>
       <description>
-&lt;script src=&#34;https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://karbalayghareh.github.io/post/2020-12-01-r-rmarkdown/index.en_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
@@ -168,7 +168,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://academic-demo.netlify.app/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://karbalayghareh.github.io/post/2020-12-01-r-rmarkdown/index.en_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
@@ -179,9 +179,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Writing technical content in Academic</title>
-      <link>https://academic-demo.netlify.app/post/writing-technical-content/</link>
+      <link>https://karbalayghareh.github.io/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/writing-technical-content/</guid>
+      <guid>https://karbalayghareh.github.io/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Academic.&lt;/p&gt;
@@ -205,7 +205,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-347986521&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-754829361&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -215,7 +215,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-347986521&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-754829361&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -443,9 +443,9 @@ You found me!
     
     <item>
       <title>Display Jupyter Notebooks with Academic</title>
-      <link>https://academic-demo.netlify.app/post/jupyter/</link>
+      <link>https://karbalayghareh.github.io/post/jupyter/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/post/jupyter/</guid>
+      <guid>https://karbalayghareh.github.io/post/jupyter/</guid>
       <description>&lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;from IPython.core.display import Image
 Image(&#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&#39;)
 &lt;/code&gt;&lt;/pre&gt;
@@ -507,9 +507,9 @@ date: 2019-09-01
     
     <item>
       <title>Slides</title>
-      <link>https://academic-demo.netlify.app/slides/example/</link>
+      <link>https://karbalayghareh.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/slides/example/</guid>
+      <guid>https://karbalayghareh.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -636,34 +636,52 @@ Three
     
     <item>
       <title>OBTL</title>
-      <link>https://academic-demo.netlify.app/project/internal-project-2/</link>
+      <link>https://karbalayghareh.github.io/project/internal-project-2/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/project/internal-project-2/</guid>
+      <guid>https://karbalayghareh.github.io/project/internal-project-2/</guid>
       <description>&lt;p&gt;Transfer learning has recently attracted significant research attention, as it simultaneously learns from different source domains, which have plenty of labeled data, and transfers the relevant knowledge to the target domain with limited labeled data to improve the prediction performance. We propose a Bayesian transfer learning framework, in the homogeneous transfer learning scenario, where the source and target domains are related through the joint prior density of the model parameters. The modeling of joint prior densities enables better understanding of the “transferability” between domains. We define a joint Wishart distribution for the precision matrices of the Gaussian feature-label distributions in the source and target domains to act like a bridge that transfers the useful information of the source domain to help classification in the target domain by improving the target posteriors. Using several theorems in multivariate statistics, the posteriors and posterior predictive densities are derived in closed forms with hypergeometric functions of matrix argument, leading to our novel closed-form and fast Optimal Bayesian Transfer Learning (OBTL) classifier. Experimental results on both synthetic and real-world benchmark data confirm the superb performance of the OBTL compared to the other state-of-the-art transfer learning and domain adaptation methods.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Optimal Bayesian transfer learning</title>
-      <link>https://academic-demo.netlify.app/publication/journal-article/</link>
+      <link>https://karbalayghareh.github.io/publication/journal-article/</link>
       <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/journal-article/</guid>
+      <guid>https://karbalayghareh.github.io/publication/journal-article/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>https://karbalayghareh.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://karbalayghareh.github.io/privacy/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Terms</title>
+      <link>https://karbalayghareh.github.io/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://karbalayghareh.github.io/terms/</guid>
+      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Classification of Gaussian trajectories with missing data in Boolean gene regulatory networks</title>
-      <link>https://academic-demo.netlify.app/publication/conference-paper/</link>
+      <link>https://karbalayghareh.github.io/publication/conference-paper/</link>
       <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/publication/conference-paper/</guid>
+      <guid>https://karbalayghareh.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://academic-demo.netlify.app/admin/config.yml</link>
+      <link>https://karbalayghareh.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://academic-demo.netlify.app/admin/config.yml</guid>
+      <guid>https://karbalayghareh.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
