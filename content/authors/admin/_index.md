@@ -17,10 +17,14 @@ interests:
 - Machine Learning
 - Computational Biology
 - Computational Genomics
+- Graph Neural Networks
+- Deep Generative Models
+- Transfer Learning
+- Bayesian Learning
 organizations:
-- name: Memorial Sloan Kettering Cancer Center
-  url: https://www.mskcc.org/research/ski/programs/computational-biology
-role: Postdoctoral Research Scholar
+- name: CZ Biohub New York
+  url: https://www.czbiohub.org/ny/
+role: Senior Research Scientist
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,6 +48,6 @@ superuser: true
 title: Alireza Karbalayghareh
 ---
 
-I am a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
+I am a Senior Research Scientist at CZ Biohub New York. Previously, I was a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.
