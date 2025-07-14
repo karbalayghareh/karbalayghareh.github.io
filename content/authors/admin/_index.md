@@ -45,6 +45,6 @@ superuser: true
 title: Alireza Karbalayghareh
 ---
 
-I am a Senior Research Scientist at CZ Biohub New York. Previously, I was a postdoc researcher in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
+I am a Senior Research Scientist at CZ Biohub New York. Previously, I was a Postdoctoral Research Associate in Computational and Systems Biology program of Sloan Kettering Institute working with Dr. Christina Leslie. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.
