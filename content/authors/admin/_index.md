@@ -14,13 +14,10 @@ education:
 email: ""
 highlight_name: false
 interests:
-- Machine Learning
-- Computational Biology
-- Computational Genomics
-- Graph Neural Networks
-- Deep Generative Models
-- Transfer Learning
-- Bayesian Learning
+- AI/ML for Biology
+- Single Cell Genomics
+- Gene Regulation
+- Engineering Immune System
 organizations:
 - name: CZ Biohub New York
   url: https://www.czbiohub.org/ny/
