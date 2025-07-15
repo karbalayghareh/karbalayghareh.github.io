@@ -37,6 +37,3 @@ design:
   view: 2
 ---
 
-{{% callout note %}}
-[See all posts](./post/).
-{{% /callout %}}
