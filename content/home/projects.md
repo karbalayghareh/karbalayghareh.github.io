@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: GraphReg
-    tag: GraphReg
   - name: OBTL
     tag: OBTL
+  - name: GraphReg
+    tag: GraphReg
   - name: ENCODE-rE2G
     tag: ENCODE-rE2G
   - name: DynaVelo
