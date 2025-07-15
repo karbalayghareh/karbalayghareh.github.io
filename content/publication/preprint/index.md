@@ -13,5 +13,5 @@ publication_types:
 - "2"
 publishDate: "2022-04-08T00:00:00Z"
 title: Chromatin interaction aware gene regulatory modeling with graph attention networks
-url_pdf: https://www.biorxiv.org/content/10.1101/2021.03.31.437978v1.full.pdf
+url_pdf: https://genome.cshlp.org/content/32/5/930.full.pdf
 ---
