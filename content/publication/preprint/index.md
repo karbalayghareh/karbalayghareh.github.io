@@ -4,14 +4,14 @@ authors:
 - admin
 - Merve Sahin
 - Christina S. Leslie
-date: "2021-04-02T00:00:00Z"
-doi: "https://doi.org/10.1101/2021.03.31.437978"
+date: "2022-04-08T00:00:00Z"
+doi: "10.1101/gr.275870.121"
 featured: false
-publication: ""
-publication_short: ""
+publication: "Genome Research"
+publication_short: "Genome Res"
 publication_types:
-- "3"
-publishDate: "2021-04-02T00:00:00Z"
+- "2"
+publishDate: "2022-04-08T00:00:00Z"
 title: Chromatin interaction aware gene regulatory modeling with graph attention networks
 url_pdf: https://www.biorxiv.org/content/10.1101/2021.03.31.437978v1.full.pdf
 ---
