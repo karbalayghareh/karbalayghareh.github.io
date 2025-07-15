@@ -31,6 +31,8 @@ content:
     tag: GraphReg
   - name: OBTL
     tag: OBTL
+  - name: ENCODE-rE2G
+    tag: ENCODE-rE2G
   - name: DynaVelo
     tag: DynaVelo
 
