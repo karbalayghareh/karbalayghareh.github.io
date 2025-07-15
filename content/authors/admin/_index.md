@@ -1,5 +1,5 @@
 ---
-bio: My research interests include machine learning, computational biology, and computational genomics.
+bio: My research interests include AI/ML for biology, gene regulation, single-cell genomics, and using them to engineer immune system for effective cancer therapies.
 education:
   courses:
   - course: PhD in Electrical Engineering
