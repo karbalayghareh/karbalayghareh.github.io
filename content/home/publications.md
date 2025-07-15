@@ -38,6 +38,6 @@ design:
 ---
 
 {{% callout note %}}
-[SEE ALL PUBLICATIONS](./publication/).
+[SEE ALL PUBLICATIONS](./publication/) | [See also Google Scholar](https://scholar.google.com/citations?hl=en&user=TaG4bDje-eoC&view_op=list_works&sortby=pubdate)
 {{% /callout %}}
 
