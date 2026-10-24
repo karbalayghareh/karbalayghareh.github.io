@@ -50,4 +50,8 @@ title: Alireza Karbalayghareh
 
 I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.org/), where I lead a cross-functional project to develop universal AI models of gene regulation in immune cells by integrating large-scale, multimodal data generated across Biohub. Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University, advised by Dr. Edward R. Dougherty.
 
+### Research Interests
+
+My research focuses on developing universal AI models of gene regulation, capturing cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts to understand and engineer the immune system to prevent and treat disease.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.
