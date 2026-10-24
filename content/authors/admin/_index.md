@@ -27,7 +27,7 @@ role: Senior Research Scientist, AI/ML
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:a.karbalayghareh@biohub.org
 - display:
     header: true
   icon: twitter
@@ -37,6 +37,10 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-1723-9355
+- icon: cv
+  icon_pack: ai
+  label: Download my CV
+  link: https://karbalayghareh.github.io/uploads/CV_Alireza.pdf
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=TaG4bDje-eoC&hl=en
@@ -55,5 +59,3 @@ I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.or
 ### Research Interests
 
 My research focuses on developing universal AI models of gene regulation, capturing cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts to understand and engineer the immune system to prevent and treat disease.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.
