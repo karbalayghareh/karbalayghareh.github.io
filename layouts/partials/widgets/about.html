@@ -78,23 +78,6 @@
 
     <div class="row">
 
-      {{ with $person.positions }}
-      <div class="col-md-6">
-        <div class="section-subheading">Research Positions</div>
-        <ul class="ul-edu fa-ul mb-0">
-          {{ range . }}
-          <li>
-            <i class="fa-li fas fa-briefcase"></i>
-            <div class="description">
-              <p class="course">{{ .title }}{{ with .dates }}, {{ . }}{{ end }}</p>
-              <p class="institution">{{ .institution }}</p>
-            </div>
-          </li>
-          {{ end }}
-        </ul>
-      </div>
-      {{ end }}
-
       {{ with $person.education }}
       <div class="col-md-6">
         <div class="section-subheading">{{ i18n "education" | markdownify }}</div>
@@ -104,6 +87,23 @@
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
               <p class="course">{{ .course }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
+
+      {{ with $person.positions }}
+      <div class="col-md-6">
+        <div class="section-subheading">Research Positions</div>
+        <ul class="ul-edu fa-ul mb-0">
+          {{ range . }}
+          <li>
+            <i class="fa-li fas fa-briefcase"></i>
+            <div class="description">
+              <p class="course">{{ .title }}{{ with .dates }}, {{ . }}{{ end }}</p>
               <p class="institution">{{ .institution }}</p>
             </div>
           </li>
