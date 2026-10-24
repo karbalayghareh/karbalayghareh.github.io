@@ -20,19 +20,16 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: karbalaa@mskcc.org
+email: a.karbalayghareh@biohub.org
 phone: ""
 address:
-  street: 417 E 68th St
+  street: 615 W 131st St
   city: New York
   region: NY
-  postcode: '10065'
+  postcode: '10027'
   country: United States
   country_code: US
-coordinates:
-  latitude: '40.765121120483464'
-  longitude: '-73.9560049158015'
-directions: Mortimer B. Zuckerman Research Center, Floor 11, Room 1145
+directions: Biohub New York
 office_hours: ""
 appointment_url: ""
 contact_links:
@@ -143,4 +140,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: false
+    ai: true

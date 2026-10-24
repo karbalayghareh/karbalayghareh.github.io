@@ -1,5 +1,5 @@
 ---
-bio: My research interests include AI/ML for biology, gene regulation, single-cell genomics, and using them to engineer immune system for effective cancer therapies.
+bio: My research focuses on developing universal AI models of gene regulation, capturing cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts to understand and engineer the immune system to prevent and treat disease.
 education:
   courses:
   - course: PhD in Electrical Engineering
@@ -14,14 +14,14 @@ education:
 email: ""
 highlight_name: false
 interests:
-- AI/ML for Biology
-- Single Cell Genomics
-- Gene Regulation
-- Engineering Immune System
+- AI Models of Gene Regulation
+- Single-Cell Multiomics
+- Perturbation Modeling
+- Immune System Engineering
 organizations:
-- name: CZ Biohub New York
-  url: https://www.czbiohub.org/ny/
-role: Senior Research Scientist
+- name: Biohub New York
+  url: https://biohub.org/
+role: Senior Research Scientist, AI/ML
 social:
 - icon: envelope
   icon_pack: fas
@@ -32,6 +32,9 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/karbalayghareh
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0002-1723-9355
 - icon: graduation-cap
   icon_pack: fas
   link: https://scholar.google.com/citations?user=TaG4bDje-eoC&hl=en
@@ -45,6 +48,6 @@ superuser: true
 title: Alireza Karbalayghareh
 ---
 
-I am a Senior Research Scientist at [CZ Biohub New York](https://www.czbiohub.org/ny/). Previously, I was a Postdoctoral Research Associate in [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). 
+I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.org/), where I lead a cross-functional project to develop universal AI models of gene regulation in immune cells by integrating large-scale, multimodal data generated across Biohub. Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University, advised by Dr. Edward R. Dougherty.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Alireza.pdf" "newtab" >}}CV{{< /staticref >}}.

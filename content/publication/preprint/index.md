@@ -7,11 +7,11 @@ authors:
 date: "2022-04-08T00:00:00Z"
 doi: "10.1101/gr.275870.121"
 featured: false
-publication: "Genome Research"
+publication: "Genome Research 32(5), 930–944"
 publication_short: "Genome Res"
 publication_types:
 - "2"
 publishDate: "2022-04-08T00:00:00Z"
-title: Chromatin interaction aware gene regulatory modeling with graph attention networks
+title: Chromatin interaction–aware gene regulatory modeling with graph attention networks
 url_pdf: https://genome.cshlp.org/content/32/5/930.full.pdf
 ---

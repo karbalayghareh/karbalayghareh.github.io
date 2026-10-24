@@ -7,7 +7,7 @@ authors:
 date: "2018-07-15T00:00:00Z"
 doi: "10.1109/TSP.2018.2839583"
 featured: false
-publication: 'IEEE Transactions on Signal Processing'
+publication: 'IEEE Transactions on Signal Processing 66(14)'
 publication_short: ""
 publication_types:
 - "2"

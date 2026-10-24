@@ -35,6 +35,8 @@ content:
     tag: ENCODE-rE2G
   - name: DynaVelo
     tag: DynaVelo
+  - name: DoFormer
+    tag: DoFormer
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
