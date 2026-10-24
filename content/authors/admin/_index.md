@@ -13,11 +13,13 @@ education:
     year: 2011
 email: ""
 highlight_name: false
-interests:
-- AI Models of Gene Regulation
-- Single-Cell Multiomics
-- Perturbation Modeling
-- Immune System Engineering
+positions:
+- title: Senior Research Scientist, AI/ML
+  institution: Biohub, New York
+  dates: 2025–present
+- title: Postdoctoral Research Associate
+  institution: Memorial Sloan Kettering Cancer Center
+  dates: 2019–2025
 organizations:
 - name: Biohub New York
   url: https://biohub.org/
@@ -48,7 +50,7 @@ superuser: true
 title: Alireza Karbalayghareh
 ---
 
-I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.org/), where I lead a cross-functional project to develop universal AI models of gene regulation in immune cells by integrating large-scale, multimodal data generated across Biohub. Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University, advised by Dr. Edward R. Dougherty.
+I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.org/), where I develop mechanistic AI models of gene regulation in immune cells by integrating large-scale observational and perturbational multiomic data. Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University, advised by Dr. Edward R. Dougherty.
 
 ### Research Interests
 
