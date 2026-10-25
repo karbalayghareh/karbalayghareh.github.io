@@ -32,11 +32,7 @@ address:
 directions: Biohub New York
 office_hours: ""
 appointment_url: ""
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Cantact me on Twitter!
-    link: 'https://twitter.com/karbalayghareh'
+contact_links: []
 
 # Site header
 

@@ -34,9 +34,6 @@ social:
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/karbalayghareh
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0002-1723-9355
 - icon: cv
   icon_pack: ai
   label: Download my CV
