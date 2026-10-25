@@ -53,7 +53,7 @@ title: Alireza Karbalayghareh
 
 ### Biography
 
-I am a Senior Research Scientist in the AI/ML group at [Biohub New York](https://biohub.org/). Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University, advised by [Dr. Edward R. Dougherty](https://gsp.tamu.edu/members/).
+I am a Senior Research Scientist in the AI/ML group at [Biohub New York](https://biohub.org/). Previously, I was a Postdoctoral Research Associate in the [Computational and Systems Biology](https://www.mskcc.org/research/ski/programs/computational-biology) program of Sloan Kettering Institute working with [Dr. Christina Leslie](https://www.mskcc.org/research/ski/labs/christina-leslie). I received my Ph.D. in Electrical Engineering from Texas A&M University in the [Genomic Signal Processing Lab](https://gsp.tamu.edu/), advised by [Dr. Edward R. Dougherty](https://gsp.tamu.edu/members/).
 
 ### Research Interests
 
