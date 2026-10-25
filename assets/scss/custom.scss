@@ -1,0 +1,60 @@
+// Research: uniform card images so figures of different shapes line up
+.project-card .card-image img {
+  height: 230px;
+  width: 100%;
+  object-fit: contain;
+  background: #fff;
+  padding: 0.75rem;
+}
+
+// News: compact date-first list
+.news-item {
+  display: flex;
+  align-items: baseline;
+  padding: 0.6rem 0;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+}
+.news-item:last-child {
+  border-bottom: none;
+}
+.news-date {
+  flex: 0 0 6.5rem;
+  font-size: 0.85rem;
+  color: #6c757d;
+  white-space: nowrap;
+}
+.news-body .news-title {
+  font-weight: 600;
+}
+.news-body .news-summary {
+  font-size: 0.9rem;
+  color: #555;
+  margin: 0.15rem 0 0;
+}
+.news-body .news-summary p {
+  margin: 0;
+}
+
+// Publications: citation list
+.pub-citation {
+  margin-bottom: 1.1rem;
+}
+.pub-citation .pub-title {
+  font-weight: 600;
+}
+.pub-citation .pub-authors,
+.pub-citation .pub-venue {
+  font-size: 0.9rem;
+  color: #555;
+}
+.pub-citation .pub-me {
+  font-weight: 700;
+  color: #222;
+}
+
+// Research: two cards per row on desktop for larger figures
+@media screen and (min-width: 769px) {
+  .project-card {
+    width: calc(50% - 10px);
+  }
+}

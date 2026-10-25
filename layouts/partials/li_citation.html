@@ -1,0 +1,32 @@
+{{/* Publication citation: authors (own name bold, long lists shortened), title, italic venue, year, links. */}}
+{{ $authors := .Params.authors | default slice }}
+{{ $n := len $authors }}
+{{ $me := -1 }}
+{{ range $i, $a := $authors }}{{ if eq $a "admin" }}{{ $me = $i }}{{ end }}{{ end }}
+
+{{ $show := slice }}
+{{ if le $n 8 }}
+  {{ $show = seq 0 (sub $n 1) }}
+{{ else }}
+  {{ $show = slice 0 1 2 }}
+  {{ if gt $me 2 }}{{ $show = $show | append $me }}{{ end }}
+  {{ if lt $me (sub $n 1) }}{{ $show = $show | append (sub $n 1) }}{{ end }}
+{{ end }}
+
+<div class="pub-citation">
+  <a class="pub-title" href="{{ .RelPermalink }}">{{ .Title }}</a>
+  <div class="pub-authors">
+    {{- $prev := -1 -}}
+    {{- range $k, $i := $show -}}
+      {{- if gt $k 0 }}, {{ end -}}
+      {{- if gt (sub $i $prev) 1 }}…, {{ end -}}
+      {{- $a := index $authors $i -}}
+      {{- if eq $a "admin" }}<span class="pub-me">A. Karbalayghareh</span>{{ with $.Params.author_notes }}{{ if gt (len .) $i }}{{ with index . $i }}<span title="{{ . }}">*</span>{{ end }}{{ end }}{{ end }}{{ else }}{{ $a }}{{ end -}}
+      {{- $prev = $i -}}
+    {{- end -}}
+  </div>
+  <div class="pub-venue">
+    <em>{{ .Params.publication | default .Params.publication_short | markdownify }}</em> ({{ .Date.Format "2006" }})
+  </div>
+  {{ partial "page_links" (dict "page" . "is_list" 1) }}
+</div>

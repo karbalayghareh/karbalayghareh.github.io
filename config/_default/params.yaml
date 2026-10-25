@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: minimal
+theme: biohub
 day_night: true
 font: ''
 font_size: L
@@ -76,7 +76,7 @@ show_related:
   project: true
   publication: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true

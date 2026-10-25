@@ -1,0 +1,22 @@
+# Theme metadata
+name = "Biohub"
+
+# Is theme light or dark?
+light = true
+
+# Primary (deep purple to match headshot background)
+primary = "#5544a8"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#34495e"
+menu_text_active = "#5544a8"
+menu_title = "#2b2b2b"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(248, 247, 252)"
+
+[dark]
+  link = "#c5bdf0"
+  link_hover = "#c5bdf0"

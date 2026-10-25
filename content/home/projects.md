@@ -27,16 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: OBTL
-    tag: OBTL
-  - name: GraphReg
-    tag: GraphReg
-  - name: ENCODE-rE2G
-    tag: ENCODE-rE2G
-  - name: DynaVelo
-    tag: DynaVelo
   - name: DoFormer
     tag: DoFormer
+  - name: DynaVelo
+    tag: DynaVelo
+  - name: ENCODE-rE2G
+    tag: ENCODE-rE2G
+  - name: GraphReg
+    tag: GraphReg
+  - name: OBTL
+    tag: OBTL
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -47,7 +47,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 5
+  view: 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

@@ -1,5 +1,5 @@
 ---
-bio: My research focuses on developing universal AI models of gene regulation, capturing cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts to understand and engineer the immune system to prevent and treat disease.
+bio: My models aim to capture cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts, with the goal of understanding and engineering the immune system to prevent and treat disease.
 education:
   courses:
   - course: PhD in Electrical Engineering
@@ -55,4 +55,4 @@ I am a Senior Research Scientist in AI/ML at [Biohub New York](https://biohub.or
 
 ### Research Interests
 
-My research focuses on developing universal AI models of gene regulation, capturing cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts to understand and engineer the immune system to prevent and treat disease.
+My models aim to capture cis-regulation, trans-regulation, and intercellular signaling by integrating multimodal, multiomic observational, spatial, time-resolved, and perturbational data from immune cells across diverse biological contexts, with the goal of understanding and engineering the immune system to prevent and treat disease.

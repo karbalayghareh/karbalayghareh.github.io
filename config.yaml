@@ -6,7 +6,7 @@
 
 title: Alireza Karbalayghareh # Website name
 baseurl: 'https://karbalayghareh.github.io/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Alireza Karbalayghareh' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
